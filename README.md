@@ -60,6 +60,12 @@
 ## 📊 Actividad en GitHub
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=javiyawe&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff" alt="Estadísticas de Javier" height="170" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=javiyawe&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=58a6ff" alt="Lenguajes más usados" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api?username=javiyawe&show_icons=true&theme=dark&hide_border=true" alt="Estadísticas de Javier" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=javiyawe&layout=compact&theme=dark&hide_border=true" alt="Lenguajes más usados" height="170" />
+</div>
+
+<br>
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=javiyawe&label=Visitas%20al%20perfil&color=0077B5&style=for-the-badge" alt="Visitas al perfil" />
 </div>
